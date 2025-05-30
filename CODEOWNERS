@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Ubayed-Bin-Sufian
+/src/backend/database.py      @Ubayed-Bin-Sufian
+/src/backend/routers/auth.py  @Ubayed-Bin-Sufian
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Ubayed-Bin-Sufian
